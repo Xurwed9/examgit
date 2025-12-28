@@ -21,3 +21,9 @@
     background-size: cover;
     background-repeat: no-repeat;
 }
+
+.bgheaderdetails {
+    background-image: url("./image\ 6.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}

@@ -27,3 +27,7 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.b {
+    border: 2px dashed #FFFFFF33;
+}

@@ -14,3 +14,10 @@
 .d3 {
     border: 1px solid #459cf3dc;
 }
+
+.bg4 {
+    background-image: url("./fc9a47396a5036fc47f50e8b57d87e02b66e2885.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}

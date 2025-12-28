@@ -1,1 +1,16 @@
 @import "tailwindcss";
+.bg1 {
+    background-image: url("./Frame\ \(32\).png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.d1 {
+    border-top: 1px solid #0A84FF;
+    border-bottom: 1px solid #0A84FF;
+}
+
+.d3 {
+    border: 1px solid #459cf3dc;
+}
